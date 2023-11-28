@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Currently I am a first-year master student in the School of Computer Science and Engineering at Sun Yat-sen University, co-advised by Prof. Xianwei Zhang and Prof. Yutong Lu.
