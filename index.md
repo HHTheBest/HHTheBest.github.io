@@ -19,4 +19,4 @@ My research interest is Compiler Approach in High Performance Computing. Current
 ## Publications
 
 - (Accepted) PPoPP 2024 full paper
-- Jiabin Xie, Guangnan Feng, Han Huang, Junxuan Feng, Yutong Lu. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
+- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Yutong Lu. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
