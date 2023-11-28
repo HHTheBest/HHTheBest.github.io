@@ -1,4 +1,7 @@
+# About
+
 ## Biography
+
 I am currently a first-year master student in **arcSYSu**([ARChitecture and SYStem Upscaling @ SYSU](https://github.com/arcsysu)) in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by [Prof. Xianwei Zhang](https://xianweiz.github.io/) and [Prof. Yutong Lu](https://cse.sysu.edu.cn/content/2483). I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023.
 
 My research interest is Compiler Approach in High Performance Computing. Currently I am working to design Programming Models for Exa-scale Supercomputers.
@@ -13,3 +16,7 @@ My research interest is Compiler Approach in High Performance Computing. Current
 - Bronze Prize, 2021 CCPC Regional (Guilin Site), Nov 2021
 - National Scholarship, Oct 2020
 
+## Publications
+
+- (Accepted) PPoPP 2024 full paper
+- Jiabin Xie, Guangnan Feng, Han Huang, Junxuan Feng, Yutong Lu. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
