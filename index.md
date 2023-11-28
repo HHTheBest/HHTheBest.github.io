@@ -8,7 +8,7 @@ My research interest is Compiler Approach in High Performance Computing. Current
 
 ## Awards & Scholarships
 - CCF Elite Collegiate Award, Oct 2023
-- First Prize, CSCC 2023 RISC-V Compilers Track, Aug 2023 ([our compiler](https://gitlab.eduxiji.net/educg-group-17291-1894922/202310558201558-3109))
+- First Prize, CSCC 2023 RISC-V Compiler Track, Aug 2023 ([our compiler](https://gitlab.eduxiji.net/educg-group-17291-1894922/202310558201558-3109))
 - Application Innovation Prize, ASC22-23, May 2023
 - First Prize, ASC22-23, May 2023
 - First Place, SC 22 SCC(virtual), Dec 2023 ([News](https://mp.weixin.qq.com/s/wcPLONp9HiIPRGGV150WvQ))
