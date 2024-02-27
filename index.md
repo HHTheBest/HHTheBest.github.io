@@ -18,5 +18,6 @@ My research interest is Compiler Approach in High Performance Computing. Current
 
 ## Publications
 
-- (Accepted) PPoPP 2024 full paper
-- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Yutong Lu. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
+- **Han Huang**, Tengyang Zheng, Tianxing Yang, Yang Ye, Siran Liu, Zhe Tang, Shengyou Lu, Guangnan Feng, Zhiguang Chen, Dan Huang. *Critique of "Productivity, Portability, Performance Data-Centric Python" by SCC Team From Sun Yat-sen University*. IEEE Trans. Parallel Distributed Syst. (**TPDS** 2024) (Accepted, not yet published)
+- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Zhiguang Chen, Yutong Lu. *Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System*. In 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP** 2024)
+- Jiabin Xie, Guangnan Feng, **Han Huang**. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
