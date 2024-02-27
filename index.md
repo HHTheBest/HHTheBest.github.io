@@ -7,14 +7,14 @@ I am currently a first-year master student in **arcSYSu**([ARChitecture and SYSt
 My research interest is Compiler Approach in High Performance Computing. Currently I am working to design Programming Models for Exa-scale Supercomputers.
 
 ## Awards & Scholarships
-- CCF Elite Collegiate Award, Oct 2023
-- First Prize, CSCC 2023 RISC-V Compiler Track, Aug 2023 ([our compiler](https://gitlab.eduxiji.net/educg-group-17291-1894922/202310558201558-3109))
+- **CCF Elite Collegiate Award**, Oct 2023
+- **First Prize**, CSCC 2023 RISC-V Compiler Track, Aug 2023 ([our compiler](https://gitlab.eduxiji.net/educg-group-17291-1894922/202310558201558-3109))
 - Application Innovation Prize, ASC22-23, May 2023
 - First Prize, ASC22-23, May 2023
-- First Place, SC 22 SCC(virtual), Dec 2022 ([News](https://mp.weixin.qq.com/s/wcPLONp9HiIPRGGV150WvQ))
-- Second Place, ISC 22 SCC, May 2022 ([News](https://mp.weixin.qq.com/s/wTaJalyJNTeqeeeF8Noh7g))
+- **First Place**, SC 22 SCC(virtual), Dec 2022 ([News](https://mp.weixin.qq.com/s/wcPLONp9HiIPRGGV150WvQ))
+- **Second Place**, ISC 22 SCC, May 2022 ([News](https://mp.weixin.qq.com/s/wTaJalyJNTeqeeeF8Noh7g))
 - Bronze Prize, 2021 CCPC Regional (Guilin Site), Nov 2021
-- National Scholarship, Oct 2020
+- **National Scholarship**, Oct 2020
 
 ## Publications
 
