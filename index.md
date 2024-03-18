@@ -18,6 +18,6 @@ My research interest is Compiler Approach in High Performance Computing. Current
 
 ## Publications
 
-- **Han Huang**, Tengyang Zheng, Tianxing Yang, Yang Ye, Siran Liu, Zhe Tang, Shengyou Lu, Guangnan Feng, Zhiguang Chen, Dan Huang. *Critique of "Productivity, Portability, Performance Data-Centric Python" by SCC Team From Sun Yat-sen University*. IEEE Trans. Parallel Distributed Syst. (**TPDS** 2024) (Accepted, not yet published)
-- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Zhiguang Chen, Yutong Lu. *Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System*. In 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP** 2024)
-- Jiabin Xie, Guangnan Feng, **Han Huang**. *Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*. SC 2023 Poster
+- **Han Huang**, Tengyang Zheng, Tianxing Yang, Yang Ye, Siran Liu, Zhe Tang, Shengyou Lu, Guangnan Feng, Zhiguang Chen, Dan Huang. [*Critique of "Productivity, Portability, Performance Data-Centric Python" by SCC Team From Sun Yat-sen University*](https://www.computer.org/csdl/journal/td/5555/01/10457928/1V2sekSmhkQ). IEEE Trans. Parallel Distributed Syst. (**TPDS** 2024) 
+- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Zhiguang Chen, Yutong Lu. [*Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System*](https://dl.acm.org/doi/10.1145/3627535.3638479). In 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP** 2024)
+- Jiabin Xie, Guangnan Feng, **Han Huang**. [*Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*](https://sc23.supercomputing.org/proceedings/tech_poster/poster_files/rpost224s3-file2.pdf). SC 2023 Poster
