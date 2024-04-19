@@ -1,6 +1,8 @@
 # About
 
-![Han Huang](https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic.jpg)
+<!-- ![Han Huang](https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic.jpg) -->
+
+<img src="https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic.jpg" alt="Han Huang" style="zoom:33%;" />
 
 ## Biography
 
