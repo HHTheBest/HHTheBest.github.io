@@ -2,13 +2,13 @@
 
 <!-- ![Han Huang](https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic.jpg) -->
 
-<!-- <img src="https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic2.jpg" alt="Han Huang" style="zoom:33%;" /> -->
+<img src="https://github.com/HHTheBest/HHTheBest.github.io/raw/main/pictures/hh_pic2.jpg" alt="Han Huang" style="zoom:33%;" />
 
 ## Biography
 
-I am currently a second-year Master student in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by Assoc. Prof. XW Zhang and Prof. YT Lu. I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023. 
+I am currently a second-year Master student in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by Assoc. Prof. XianWei Zhang and Prof. YuTong Lu. I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023.
 
-<!-- My research interest is designing high performance kernels for matrix computation units. (e.g. Scalable Matrix Extensions)
+My research interest is designing high performance kernels for matrix computation units. (e.g. Scalable Matrix Extensions)
 
 ## Awards & Scholarships
 - **Tencent Scholarship (Top Prize)**, Dec 2024
@@ -23,7 +23,7 @@ I am currently a second-year Master student in the [School of Computer Science a
 - **National Scholarship**, Oct 2020
 
 ## Publications
-- **Han Huang**, Lanshu Huang, Jiabin Xie, Guangnan Feng, Xianwei Zhang, Dan Huang, Zhiguang Chen and Yutong Lu, *HStencil: Matrix-Vector Stencil Computation with Interleaved Outer Product and MLA*, The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**), St. louis, MO, United States, November 2025.
+- **Han Huang**, Jiabin Xie, Guangnan Feng, Xianwei Zhang, Dan Huang, Zhiguang Chen and Yutong Lu, [*HStencil: Matrix-Vector Stencil Computation with Interleaved Outer Product and MLA*](https://dl.acm.org/doi/10.1145/3712285.3759769), The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**), St. louis, MO, United States, November 2025.
 - **Han Huang**, Tengyang Zheng, Tianxing Yang, Yang Ye, Siran Liu, Zhe Tang, Shengyou Lu, Guangnan Feng, Zhiguang Chen and Dan Huang. [*Critique of "Productivity, Portability, Performance Data-Centric Python" by SCC Team From Sun Yat-sen University*](https://ieeexplore.ieee.org/document/10457928). IEEE Trans. Parallel Distributed Syst. (Volume: 36, Issue: 5, **TPDS** 2025) 
 - Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng, Zhiguang Chen and Yutong Lu. [*Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System*](https://dl.acm.org/doi/10.1145/3627535.3638479). In 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (**PPoPP** 2024)
-- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng and Yutong Lu. [*Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*](https://sc23.supercomputing.org/proceedings/tech_poster/poster_files/rpost224s3-file2.pdf). SC 2023 Poster  -->
+- Jiabin Xie, Guangnan Feng, **Han Huang**, Junxuan Feng and Yutong Lu. [*Parallel Optimization Methods for Direct Numerical Simulation of High Reynolds Number Wall Turbulence with a Grid Size of 100 Billion*](https://sc23.supercomputing.org/proceedings/tech_poster/poster_files/rpost224s3-file2.pdf). SC 2023 Poster 
