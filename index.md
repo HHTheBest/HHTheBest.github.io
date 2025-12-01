@@ -6,7 +6,7 @@
 
 ## Biography
 
-I am currently a second-year Master student in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by Assoc. Prof. XianWei Zhang and Prof. YuTong Lu. I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023.
+I am currently a first-year Ph.D candidate in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by Assoc. Prof. XianWei Zhang and Prof. YuTong Lu. I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023.
 
 My research interest is designing high performance kernels for matrix computation units. (e.g. Scalable Matrix Extensions)
 
