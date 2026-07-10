@@ -24,7 +24,7 @@ My research interest is designing high performance kernels for matrix computatio
 
 ## Publications
 (<b>Note</b>: <u>Co-first Author</u>)
-- **<u>Han Huang</u>**, Lanshu Huang, Xianjie Chen, Xianwei Zhang and Yutong Lu, *HSPref: Efficient Software Prefetching for ARM SME Outer-Products*, 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, August 2026.
+- **Han Huang**, Lanshu Huang, Xianjie Chen, Xianwei Zhang and Yutong Lu, *HSPref: Efficient Software Prefetching for ARM SME Outer-Products*, 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, August 2026.
 - Tengyang Zheng, **<u>Han Huang</u>**, Junru Chen, Xianwei Zhang and Yutong Lu, *SMEAtten: Fast and Memory-Efficient Outer Product-based Attention on ARMv9 CPUs with SME*, 32nd International European Conference on Parallel and Distributed Computing (**Euro-par**), Pisa, Italy, August 2026.
 - Lanshu Huang, **<u>Han Huang</u>**, Zhiguang Chen and Yutong Lu, [*KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor*](https://past.date-conference.com/proceedings-archive/2026/DATA/316.pdf), Design, Automation & Test in Europe Conference (**DATE**), Verona, Italy, April 2026. (**Best Paper**)
 - **Han Huang**, Jiabin Xie, Guangnan Feng, Xianwei Zhang, Dan Huang, Zhiguang Chen and Yutong Lu, [*HStencil: Matrix-Vector Stencil Computation with Interleaved Outer Product and MLA*](https://dl.acm.org/doi/10.1145/3712285.3759769), The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**), St. louis, MO, United States, November 2025.
