@@ -8,7 +8,7 @@
 
 I am currently a first-year Ph.D candidate in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/), co-advised by Assoc. Prof. XianWei Zhang and Prof. YuTong Lu. I receive my bachelor degree in Computer Science and Technology in Sun Yat-sen University in 2023. I expect to graduate in June 2028.
 
-My research interest is designing high performance kernels for matrix computation units. (e.g. Scalable Matrix Extensions) My research works have been accepted in top-tier conferences (SC/PPoPP/DATE/Euro-Par) and journals (TPDS). I have received the **best paper award** in DATE 2026 as the co-first author.
+My research interest is designing high performance kernels for matrix computation units. (e.g. Scalable Matrix Extensions) My research works have been accepted in top-tier conferences (MICRO/SC/PPoPP/DATE/Euro-Par) and journals (TPDS). I have received the **best paper award** in DATE 2026 as the co-first author.
 
 ## Awards & Scholarships
 - **Tencent Scholarship (Top Prize)**, Dec 2024
@@ -24,6 +24,7 @@ My research interest is designing high performance kernels for matrix computatio
 
 ## Publications
 (<b>Note</b>: <u>Co-first Author</u>)
+- **<u>Han Huang</u>**, Lanshu Huang, Xianjie Chen, Xianwei Zhang and Yutong Lu, *HSPref: Efficient Software Prefetching for ARM SME Outer-Products*, 59th IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Athens, Greece, August 2026.
 - Tengyang Zheng, **<u>Han Huang</u>**, Junru Chen, Xianwei Zhang and Yutong Lu, *SMEAtten: Fast and Memory-Efficient Outer Product-based Attention on ARMv9 CPUs with SME*, 32nd International European Conference on Parallel and Distributed Computing (**Euro-par**), Pisa, Italy, August 2026.
 - Lanshu Huang, **<u>Han Huang</u>**, Zhiguang Chen and Yutong Lu, [*KirbyMM: Outer-Product Based Matrix Multiplication on ARMv9 Processor*](https://past.date-conference.com/proceedings-archive/2026/DATA/316.pdf), Design, Automation & Test in Europe Conference (**DATE**), Verona, Italy, April 2026. (**Best Paper**)
 - **Han Huang**, Jiabin Xie, Guangnan Feng, Xianwei Zhang, Dan Huang, Zhiguang Chen and Yutong Lu, [*HStencil: Matrix-Vector Stencil Computation with Interleaved Outer Product and MLA*](https://dl.acm.org/doi/10.1145/3712285.3759769), The International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**), St. louis, MO, United States, November 2025.
